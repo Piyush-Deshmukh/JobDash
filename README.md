@@ -1,1 +1,1 @@
-Job Apllication Tracking Website.
+Job Application Tracking Website.
