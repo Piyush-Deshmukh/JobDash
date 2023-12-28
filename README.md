@@ -17,7 +17,7 @@
 
 ## Demo
 
-Here is a working live demo : <a href="https://jobdash.onrender.com/" target="_blank">https://jobdash.onrender.com/</a>
+Here is a working live demo : https://jobdash.onrender.com/
 
 ## Key Features
 
