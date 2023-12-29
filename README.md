@@ -17,7 +17,7 @@
 
 ## Demo
 
-Here is a working live demo : https://jobdash.onrender.com/
+Here is a live working demo : https://jobdash.onrender.com/
 
 ## Key Features
 
